@@ -99,6 +99,7 @@ namespace ADOdemo
         }
 
         private void BtnSearch_Click(object sender, EventArgs e)
+        
         {
             try
             {
